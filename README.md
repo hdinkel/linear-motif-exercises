@@ -3,10 +3,10 @@ linear-motif-exercises
 
 Linear motif biology, prediction, and cooperativity in cellular signalling
 
-Objective: Get familiar with the [Phospho.ELM](http://phospho.elm.eu.org) resource. {#toc0}
+Objective: Get familiar with the [Phospho.ELM](http://phospho.elm.eu.org) resource. 
 ===================================================================================
 
-Searching via protein id {#toc1}
+Searching via protein id 
 ------------------------
 
 1.  Go to [Phospho.ELM](http://phospho.elm.eu.org) and enter protein
@@ -41,7 +41,7 @@ Searching via protein id {#toc1}
 
  
 
-Searching via gene name {#toc2}
+Searching via gene name 
 -----------------------
 
 Recently, you’ve learned about the protein ‘EPSIN1′ and you are curious
@@ -67,7 +67,7 @@ protein.
 
  
 
-Using BLAST to find homologous information {#toc3}
+Using BLAST to find homologous information 
 ------------------------------------------
 
  
@@ -88,7 +88,7 @@ Using BLAST to find homologous information {#toc3}
 
  
 
-Comparing data from multiple sources: {#toc4}
+Comparing data from multiple sources: 
 -------------------------------------
 
  
@@ -123,7 +123,7 @@ Comparing data from multiple sources: {#toc4}
         note down the position(s) and the residue, if you can’t find
         one, discuss with your neighbor why this could be.
 
-Objective: Get familiar with the [ELM (Eukaryotic Linear Motif)](http://elm.eu.org) prediction tool . {#toc5}
+Objective: Get familiar with the [ELM (Eukaryotic Linear Motif)](http://elm.eu.org) prediction tool . 
 =====================================================================================================
 
 1.  Search protein SRC_HUMAN (accession P12931) for ELMs using the
@@ -251,10 +251,10 @@ Objective: Get familiar with the [ELM (Eukaryotic Linear Motif)](http://elm.eu.o
 
  
 
-Objective: Get familiar with the [ELM](http://elm.eu.org) database . {#toc6}
+Objective: Get familiar with the [ELM](http://elm.eu.org) database . 
 ====================================================================
 
-Instances {#toc7}
+Instances 
 ---------
 
 1.  (OPTIONAL) Search protein UNG_HUMAN (P13051) for annotated ELMs.
@@ -298,7 +298,7 @@ Instances {#toc7}
 
  
 
-Objective: Get familiar with the [Switches.ELM](http://switches.elm.eu.org) resource . {#toc8}
+Objective: Get familiar with the [Switches.ELM](http://switches.elm.eu.org) resource . 
 ======================================================================================
 
  
@@ -326,7 +326,7 @@ Objective: Get familiar with the [Switches.ELM](http://switches.elm.eu.org) reso
 
 * * * * *
 
-References: {#toc8}
+References: 
 ===========
 
 - Alexander et al. Sci. Sig 2011 “Spatial exclusivity combined with positive and negative selection of phosphorylation motifs is the basis for context-dependent mitotic signaling” [URL](http://stke.sciencemag.org/cgi/content/short/4/179/ra42/DC1)
